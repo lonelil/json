@@ -2,23 +2,23 @@
     {
       "name": "NordVPN",
       "images": [
-        "https://cdn.jsdelivr.net/gh/lonelil/json@latest/images/nordvpn1.png"
+        "https://lonelil.github.io/json/images/nordvpn1.png"
       ],
       "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=58565"
     },
     {
       "name": "NordPass",
       "images": [
-        "https://cdn.jsdelivr.net/gh/lonelil/json@latest/images/nordpass1.png"
+        "https://lonelil.github.io/json/images/nordpass1.png"
       ],
       "url": "https://go.nordpass.io/aff_c?offer_id=488&aff_id=58565"
     },
     {
       "name": "koro",
       "images": [
-        "https://cdn.jsdelivr.net/gh/lonelil/json@latest/images/image_2023-10-13_175638216.png",
-        "https://cdn.jsdelivr.net/gh/lonelil/json@latest/images/image_2023-10-13_175629310.png",
-        "https://cdn.jsdelivr.net/gh/lonelil/json@latest/images/image_2023-10-13_175620810.png"
+        "https://lonelil.github.io/json/images/image_2023-10-13_175638216.png",
+        "https://lonelil.github.io/json/images/image_2023-10-13_175629310.png",
+        "https://lonelil.github.io/json/images/image_2023-10-13_175620810.png"
       ],
       "url": "https://twitter.com/justekoro"
     }
