@@ -1,0 +1,17 @@
+[
+    {
+      "name": "NordVPN",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/lonelil/json@latest/images/nodevpn1.png"
+      ],
+      "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=58565"
+    },
+    {
+      "name": "NordPass",
+      "images": [
+        "https://cdn.jsdelivr.net/gh/lonelil/json@latest/images/nodepass1.png"
+      ],
+      "url": "https://go.nordpass.io/aff_c?offer_id=488&aff_id=58565"
+    }
+  ]
+  
